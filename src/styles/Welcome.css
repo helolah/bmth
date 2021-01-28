@@ -1,0 +1,25 @@
+.Welcome {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Title {
+    font-size: 5em;
+    color: #fff;
+    /* text-align: center; */
+}
+
+.Logo_Mantra {
+    margin: auto;
+    width: 25%;
+}
+
+.Scroll_Down_Icon {
+    width: 5%;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
